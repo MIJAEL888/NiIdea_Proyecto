@@ -1,0 +1,14 @@
+com\ayso\bean\Quoted.class
+com\ayso\bean\Monitoreo.class
+com\ayso\controller\LoginController.class
+com\ayso\config\WebInitializer.class
+com\ayso\controller\DefaultController.class
+com\ayso\controller\ReportController.class
+com\ayso\bean\Project.class
+com\ayso\controller\MonitoringController.class
+com\ayso\controller\QuotedController.class
+com\ayso\bean\Service.class
+com\ayso\controller\DashController.class
+com\ayso\controller\ProjectController.class
+com\ayso\bean\Client.class
+com\ayso\config\Config.class
